@@ -14,7 +14,7 @@
 Changes
 =======
 
-Version 1.1.1 (2018-11-18)
+Version 1.1.1 (2018-11-28)
 
 - Changes URL resolution for bibcodes to use https://ui.adsabs.harvard instead
   of https://adsabs.harvard.edu/abs/.
