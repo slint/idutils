@@ -14,6 +14,10 @@
 Changes
 =======
 
+Version 1.2.0 (2018-11-29)
+
+- Uses HTTPS by default when calling ``idutils.to_url``.
+
 Version 1.1.1 (2018-11-28)
 
 - Changes URL resolution for bibcodes to use https://ui.adsabs.harvard instead
